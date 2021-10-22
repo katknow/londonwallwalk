@@ -3032,13 +3032,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #8699a6;
-  border-color: #8699a6;
+  background-color: #b1c5cb;
+  border-color: #b1c5cb;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #b1c5cb;
-  border-color: #b1c5cb;
+  background-color: #8699a6;
+  border-color: #8699a6;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11319,7 +11319,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #8699a6;
+  background-color: #f4623a;
   opacity: 1;
 }
 
@@ -11440,7 +11440,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(134, 153, 166, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
